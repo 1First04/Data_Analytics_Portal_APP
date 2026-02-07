@@ -69,10 +69,6 @@ This opens a browser window with the app UI. If a browser doesn't open automatic
 
 Contributions and improvements are welcome. For small fixes, open a pull request with a brief description of the change.
 
-## License
-
-This project does not include a license file. Add a license (for example MIT) if you intend to share the project publicly.
-
 ## Contact
 
 For questions or help, open an issue in this repository or contact the project owner.
