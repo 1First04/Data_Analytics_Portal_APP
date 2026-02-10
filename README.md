@@ -59,6 +59,11 @@ This opens a browser window with the app UI. If a browser doesn't open automatic
 3. Use "Value Counts" to select a column and view the most frequent values and corresponding charts.
 4. Use "Groupby Operation" to choose grouping columns, aggregation column, and operation (sum, max, min, mean, median, count). Generate visualizations from the aggregated result.
 
+<img width="1080" height="778" alt="image" src="https://github.com/user-attachments/assets/2357c64d-ee84-4e8c-bb99-f67fd7060c0d" />   <img width="1025" height="800" alt="image" src="https://github.com/user-attachments/assets/27ec5c77-ad3c-4aad-941d-2ede4a35c201" />  <img width="1096" height="751" alt="image" src="https://github.com/user-attachments/assets/d493a7d3-4a6b-460e-be3e-be80827459f8" /> <img width="1027" height="566" alt="image" src="https://github.com/user-attachments/assets/b55ec0b9-a287-428b-996b-207d43c933b0" />
+
+
+
+
 ## Notes and tips
 
 - The app expects reasonably sized datasets for interactive use. Large files may slow the browser.
